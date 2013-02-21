@@ -4,9 +4,6 @@ title: Simone Vincenzi
 
 ---
 
-[View on GitHub](https://github.com/simonevincenzi)
-
-
 ### Contact
 
 E-mail: [simon.vincenz@gmail.com](mailto:simon.vincenz@gmail.com)
